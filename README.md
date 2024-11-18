@@ -210,9 +210,7 @@ graph TD
 ### 6.2 Installation Steps
 
 1. Clone repository:
-```bash
-git clone https://github.com/your-repo/sms-spam-detection.git
-```
+git clone https://github.com/r0hitB/sms-spam-detection```
 
 2. Install dependencies:
 ```bash
