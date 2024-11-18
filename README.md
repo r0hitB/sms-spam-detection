@@ -7,11 +7,11 @@
 | Document Details | |
 |-----------------|--------------------------|
 | Title | SMS Spam Detection System |
-| Author | [Your Name] |
+| Author | Shubhrajyoti Bagchi |
 | Date | November 18, 2024 |
 | Version | 1.0 |
 | Status | Final |
-| Department | Machine Learning Division |
+
 
 -----------------------------------------------------------
 
@@ -299,6 +299,5 @@ print(f"Message is {'spam' if result == 1 else 'ham'}")
 | Classification | Internal Use Only |
 
 -----------------------------------------------------------
-
-**Note:** This document is maintained by the Machine Learning Division. For questions or updates, please contact [Your Email].
+.
 
